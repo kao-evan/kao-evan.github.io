@@ -7,3 +7,10 @@
  我喜歡打撞球
  
 ![車車](https://d1grca2t3zpuug.cloudfront.net/2021/01/puipuiinfo01.jpg)
+
+```c
+#include <stdio.h>
+int main
+{
+ printf("Hello World\n");
+}
